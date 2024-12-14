@@ -1,0 +1,15 @@
+    output_dir="./resnet_finetuned",#
+    remove_unused_columns=False,
+    evaluation_strategy="epoch",#
+    save_strategy="epoch",#
+    per_device_train_batch_size=16,#
+    per_device_eval_batch_size=16,#
+    num_train_epochs=10,#3 for MNIST
+    learning_rate=5e-5,#
+    weight_decay=0.01,
+    logging_dir="./logs",#
+    logging_steps=10,#
+    load_best_model_at_end=True,#
+    metric_for_best_model="accuracy",#
+    
+    dataset For MNIST for training is 8 for training, 1 for eval, 1 for test

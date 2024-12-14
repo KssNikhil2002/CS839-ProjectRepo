@@ -1,0 +1,18 @@
+Could not find image processor class in the image processor config or the model                                                                                        config. Loading based on pattern matching with the model's feature extractor con                                                                                       figuration.
+Resolving data files: 100%|¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€| 5712/5712 [00:01<00:00, 4519.28it/s]
+Resolving data files: 100%|¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€| 1311/1311 [00:00<00:00, 3680.17it/s]
+Found cached dataset imagefolder (/u/b/z/bzou/.cache/huggingface/datasets/imagef                                                                                       older/Brain_Tumor_MRI_Dataset-5b4ab39ae363add8/0.0.0/37fbb85cc714a338bea574ac6c7                                                                                       d0b5be5aff46c1862c1989b20e0771199e93f)
+100%|¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€| 2/2 [00:00<00:00,  8.58it/s]
+pixel_values
+torch.Size([1311, 3, 224, 224])
+labels
+torch.Size([1311])
+ImageClassifierOutputWithNoAttention(loss=None, logits=tensor([[ 0.7992,  0.0642                                                                                       , -0.5056, -0.8284],
+        [ 0.7894, -0.3408, -0.2481, -0.5651],
+        [ 1.5159, -0.4072, -0.4704, -0.9303],
+        ...,
+        [-1.5414, -0.4569, -2.0940,  2.6156],
+        [-2.0022,  0.3456, -1.8929,  1.8880],
+        [-1.7134, -0.2550, -1.8865,  2.5422]]), hidden_states=None)
+torch.Size([1311, 4])
+0.8237986270022883

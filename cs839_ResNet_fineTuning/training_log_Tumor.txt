@@ -1,0 +1,98 @@
+  warnings.warn('Was asked to gather along dimension 0, but all '
+{'loss': 1.3814, 'learning_rate': 4.878048780487805e-05, 'epoch': 0.24}
+{'loss': 1.3619, 'learning_rate': 4.75609756097561e-05, 'epoch': 0.49}
+{'loss': 1.3439, 'learning_rate': 4.634146341463415e-05, 'epoch': 0.73}
+{'loss': 1.3108, 'learning_rate': 4.51219512195122e-05, 'epoch': 0.98}
+{'eval_loss': 1.340649127960205, 'eval_accuracy': 0.44405594405594406, 'eval_run                                                                                       time': 4.6092, 'eval_samples_per_second': 124.099, 'eval_steps_per_second': 1.08                                                                                       5, 'epoch': 1.0}
+ 10%|¨€¨€¨€¨€¨‡                                     | 41/410 [01:00<07:10,  1.17s/it/                                                                                       u/b/z/bzou/miniconda3/envs/cs839_lee/lib/python3.7/site-packages/torch/nn/parall                                                                                       el/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all                                                                                        input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+{'loss': 1.289, 'learning_rate': 4.390243902439025e-05, 'epoch': 1.22}
+{'loss': 1.2564, 'learning_rate': 4.26829268292683e-05, 'epoch': 1.46}
+{'loss': 1.2248, 'learning_rate': 4.146341463414634e-05, 'epoch': 1.71}
+{'loss': 1.185, 'learning_rate': 4.0243902439024395e-05, 'epoch': 1.95}
+{'eval_loss': 1.1756714582443237, 'eval_accuracy': 0.6013986013986014, 'eval_run                                                                                       time': 3.7599, 'eval_samples_per_second': 152.131, 'eval_steps_per_second': 1.33                                                                                       , 'epoch': 2.0}
+ 20%|¨€¨€¨€¨€¨€¨€¨€¨€¨…                                 | 82/410 [02:24<05:00,  1.09it/s/                                                                                       u/b/z/bzou/miniconda3/envs/cs839_lee/lib/python3.7/site-packages/torch/nn/parall                                                                                       el/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all                                                                                        input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+{'loss': 1.1552, 'learning_rate': 3.9024390243902444e-05, 'epoch': 2.2}
+{'loss': 1.101, 'learning_rate': 3.780487804878049e-05, 'epoch': 2.44}
+{'loss': 1.0738, 'learning_rate': 3.6585365853658535e-05, 'epoch': 2.68}
+{'loss': 1.0224, 'learning_rate': 3.5365853658536584e-05, 'epoch': 2.93}
+{'eval_loss': 0.9855272173881531, 'eval_accuracy': 0.715034965034965, 'eval_runt                                                                                       ime': 4.1045, 'eval_samples_per_second': 139.361, 'eval_steps_per_second': 1.218                                                                                       , 'epoch': 3.0}
+ 30%|¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨†                            | 123/410 [03:46<04:01,  1.19it/s/                                                                                       u/b/z/bzou/miniconda3/envs/cs839_lee/lib/python3.7/site-packages/torch/nn/parall                                                                                       el/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all                                                                                        input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+{'loss': 0.9853, 'learning_rate': 3.414634146341464e-05, 'epoch': 3.17}
+{'loss': 0.9317, 'learning_rate': 3.292682926829269e-05, 'epoch': 3.41}
+{'loss': 0.8888, 'learning_rate': 3.170731707317073e-05, 'epoch': 3.66}
+{'loss': 0.8474, 'learning_rate': 3.048780487804878e-05, 'epoch': 3.9}
+{'eval_loss': 0.7957781553268433, 'eval_accuracy': 0.8024475524475524, 'eval_run                                                                                       time': 3.7017, 'eval_samples_per_second': 154.523, 'eval_steps_per_second': 1.35                                                                                       1, 'epoch': 4.0}
+ 40%|¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨…                        | 164/410 [05:08<03:16,  1.25it/s/                                                                                       u/b/z/bzou/miniconda3/envs/cs839_lee/lib/python3.7/site-packages/torch/nn/parall                                                                                       el/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all                                                                                        input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+{'loss': 0.84, 'learning_rate': 2.926829268292683e-05, 'epoch': 4.15}
+{'loss': 0.763, 'learning_rate': 2.8048780487804882e-05, 'epoch': 4.39}
+{'loss': 0.7481, 'learning_rate': 2.682926829268293e-05, 'epoch': 4.63}
+{'loss': 0.71, 'learning_rate': 2.5609756097560977e-05, 'epoch': 4.88}
+{'eval_loss': 0.6489509344100952, 'eval_accuracy': 0.8496503496503497, 'eval_run                                                                                       time': 4.9939, 'eval_samples_per_second': 114.541, 'eval_steps_per_second': 1.00                                                                                       1, 'epoch': 5.0}
+ 50%|¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨„                    | 205/410 [06:34<02:49,  1.21it/s/                                                                                       u/b/z/bzou/miniconda3/envs/cs839_lee/lib/python3.7/site-packages/torch/nn/parall                                                                                       el/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all                                                                                        input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+{'loss': 0.6988, 'learning_rate': 2.4390243902439026e-05, 'epoch': 5.12}
+{'loss': 0.6615, 'learning_rate': 2.3170731707317075e-05, 'epoch': 5.37}
+{'loss': 0.6379, 'learning_rate': 2.1951219512195124e-05, 'epoch': 5.61}
+{'loss': 0.6317, 'learning_rate': 2.073170731707317e-05, 'epoch': 5.85}
+{'eval_loss': 0.5696813464164734, 'eval_accuracy': 0.8723776223776224, 'eval_run                                                                                       time': 3.7525, 'eval_samples_per_second': 152.433, 'eval_steps_per_second': 1.33                                                                                       2, 'epoch': 6.0}
+ 60%|¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨„                | 246/410 [08:06<02:35,  1.05it/s/                                                                                       u/b/z/bzou/miniconda3/envs/cs839_lee/lib/python3.7/site-packages/torch/nn/parall                                                                                       el/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all                                                                                        input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+{'loss': 0.6244, 'learning_rate': 1.9512195121951222e-05, 'epoch': 6.1}
+{'loss': 0.5896, 'learning_rate': 1.8292682926829268e-05, 'epoch': 6.34}
+{'loss': 0.5753, 'learning_rate': 1.707317073170732e-05, 'epoch': 6.59}
+{'loss': 0.5324, 'learning_rate': 1.5853658536585366e-05, 'epoch': 6.83}
+{'eval_loss': 0.5057356953620911, 'eval_accuracy': 0.8776223776223776, 'eval_run                                                                                       time': 3.6835, 'eval_samples_per_second': 155.289, 'eval_steps_per_second': 1.35                                                                                       7, 'epoch': 7.0}
+ 70%|¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨ƒ            | 287/410 [09:21<01:30,  1.36it/s/                                                                                       u/b/z/bzou/miniconda3/envs/cs839_lee/lib/python3.7/site-packages/torch/nn/parall                                                                                       el/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all                                                                                        input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+{'loss': 0.5783, 'learning_rate': 1.4634146341463415e-05, 'epoch': 7.07}
+{'loss': 0.5305, 'learning_rate': 1.3414634146341466e-05, 'epoch': 7.32}
+{'loss': 0.5171, 'learning_rate': 1.2195121951219513e-05, 'epoch': 7.56}
+{'loss': 0.5303, 'learning_rate': 1.0975609756097562e-05, 'epoch': 7.8}
+{'eval_loss': 0.46800562739372253, 'eval_accuracy': 0.8881118881118881, 'eval_ru                                                                                       ntime': 4.0744, 'eval_samples_per_second': 140.388, 'eval_steps_per_second': 1.2                                                                                       27, 'epoch': 8.0}
+ 80%|¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨‚        | 328/410 [10:40<01:13,  1.12it/s/                                                                                       u/b/z/bzou/miniconda3/envs/cs839_lee/lib/python3.7/site-packages/torch/nn/parall                                                                                       el/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all                                                                                        input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+{'loss': 0.5446, 'learning_rate': 9.756097560975611e-06, 'epoch': 8.05}
+{'loss': 0.5115, 'learning_rate': 8.53658536585366e-06, 'epoch': 8.29}
+{'loss': 0.4844, 'learning_rate': 7.317073170731707e-06, 'epoch': 8.54}
+{'loss': 0.4911, 'learning_rate': 6.0975609756097564e-06, 'epoch': 8.78}
+{'eval_loss': 0.4638519883155823, 'eval_accuracy': 0.8881118881118881, 'eval_run                                                                                       time': 4.0807, 'eval_samples_per_second': 140.171, 'eval_steps_per_second': 1.22                                                                                       5, 'epoch': 9.0}
+ 90%|¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨    | 369/410 [12:12<00:36,  1.13it/s/                                                                                       u/b/z/bzou/miniconda3/envs/cs839_lee/lib/python3.7/site-packages/torch/nn/parall                                                                                       el/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all                                                                                        input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+{'loss': 0.5141, 'learning_rate': 4.8780487804878055e-06, 'epoch': 9.02}
+{'loss': 0.4619, 'learning_rate': 3.6585365853658537e-06, 'epoch': 9.27}
+{'loss': 0.4773, 'learning_rate': 2.4390243902439027e-06, 'epoch': 9.51}
+{'loss': 0.4596, 'learning_rate': 1.2195121951219514e-06, 'epoch': 9.76}
+{'loss': 0.5096, 'learning_rate': 0.0, 'epoch': 10.0}
+{'eval_loss': 0.43679487705230713, 'eval_accuracy': 0.8863636363636364, 'eval_ru                                                                                       ntime': 3.6184, 'eval_samples_per_second': 158.081, 'eval_steps_per_second': 1.3                                                                                       82, 'epoch': 10.0}
+{'train_runtime': 832.2653, 'train_samples_per_second': 61.759, 'train_steps_per                                                                                       _second': 0.493, 'train_loss': 0.8044348821407411, 'epoch': 10.0}
+100%|¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€| 410/410 [13:52<00:00,  2.03s/it]
+***** train metrics *****
+  epoch                    =       10.0
+  train_loss               =     0.8044
+  train_runtime            = 0:13:52.26
+  train_samples_per_second =     61.759
+  train_steps_per_second   =      0.493
+/u/b/z/bzou/miniconda3/envs/cs839_lee/lib/python3.7/site-packages/torch/nn/paral                                                                                       lel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but al                                                                                       l input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+100%|¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€| 5/5 [00:02<00:00,  1.73it/s]
+***** eval metrics *****
+  epoch                   =       10.0
+  eval_accuracy           =     0.8881
+  eval_loss               =      0.468
+  eval_runtime            = 0:00:03.91
+  eval_samples_per_second =    146.234
+  eval_steps_per_second   =      1.278
+{'eval_loss': 0.46800562739372253, 'eval_accuracy': 0.8881118881118881, 'eval_ru                                                                                       ntime': 3.9115, 'eval_samples_per_second': 146.234, 'eval_steps_per_second': 1.2                                                                                       78, 'epoch': 10.0}
+(cs839_lee) [bzou@instgpu-01] (13)$ python inference.py
+Could not find image processor class in the image processor config or the model                                                                                        config. Loading based on pattern matching with the model's feature extractor con                                                                                       figuration.
+Resolving data files: 100%|¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€| 1311/1311 [00:00<00:00, 4694.01it/s]
+Downloading and preparing dataset imagefolder/test to /u/b/z/bzou/.cache/hugging                                                                                       face/datasets/imagefolder/test-181fbb786389b8e6/0.0.0/37fbb85cc714a338bea574ac6c                                                                                       7d0b5be5aff46c1862c1989b20e0771199e93f...
+Downloading data files: 100%|¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€| 1311/1311 [00:00<00:00, 25331.26it/s]
+Downloading data files: 0it [00:00, ?it/s]
+Extracting data files: 0it [00:00, ?it/s]
+Dataset imagefolder downloaded and prepared to /u/b/z/bzou/.cache/huggingface/da                                                                                       tasets/imagefolder/test-181fbb786389b8e6/0.0.0/37fbb85cc714a338bea574ac6c7d0b5be                                                                                       5aff46c1862c1989b20e0771199e93f. Subsequent calls will reuse this data.
+100%|¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€| 1/1 [00:00<00:00, 44.17it/s]
